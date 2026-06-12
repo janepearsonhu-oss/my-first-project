@@ -1,0 +1,4 @@
+question,answer
+Which stock had the highest total return?,NVDA had the highest total return.
+How did AVGO compare with peers?,AVGO is shown in both the performance table and the SQLite peer view for direct comparison.
+Can the same data support SQL and Python analysis?,"Yes. The script creates SQLite tables and views first, then uses the cleaned data for visual and K-Means analysis."

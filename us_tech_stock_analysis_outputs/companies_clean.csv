@@ -1,0 +1,9 @@
+ticker,company_name,sector,industry,focus_flag
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",0
+ADBE,Adobe Inc.,Information Technology,Application Software,0
+AMD,"Advanced Micro Devices, Inc.",Information Technology,Semiconductors,0
+AVGO,Broadcom Inc.,Information Technology,Semiconductors,1
+CRM,"Salesforce, Inc.",Information Technology,Application Software,0
+MSFT,Microsoft Corporation,Information Technology,Systems Software,0
+NVDA,NVIDIA Corporation,Information Technology,Semiconductors,0
+ORCL,Oracle Corporation,Information Technology,Application Software,0
