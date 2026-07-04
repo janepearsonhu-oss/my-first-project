@@ -36,8 +36,8 @@ TARGET_COMPANIES = [
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_CANDIDATES = [
     SCRIPT_DIR,
-    SCRIPT_DIR / "Assessement3and4",
-    Path("/Users/xiaoyu/Work/masseyCode/158739/Assessement3and4"),
+    SCRIPT_DIR / " ",
+    Path(" "),
 ]
 
 PROJECT_ROOT = next(
